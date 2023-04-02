@@ -25,6 +25,6 @@
 
 **Visit this Public Address to View** 
 
-ec2-13-51-255-51.eu-north-1.compute.amazonaws.com
+(https://ec2-13-51-255-51.eu-north-1.compute.amazonaws.com)
 
 ✌️

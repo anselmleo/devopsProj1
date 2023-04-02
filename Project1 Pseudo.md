@@ -1,14 +1,14 @@
 #DEMO 
-- [ Step 1: create github repo and aws test accoount (with outlook)]
-Step 2: create an ubuntu free tier ec2 instance with aws
-Step 3: update apt 
-Step 4: update security group inbound and outbound rules
-Step 5: setup ssh and connect via terminal or connect via aws cloud shell
+- Step 1: create github repo and aws test accoount (with outlook)
+- Step 2: create an ubuntu free tier ec2 instance with aws
+- Step 3: update apt 
+- Step 4: update security group inbound and outbound rules
+- Step 5: setup ssh and connect via terminal or connect via aws cloud shell
 
 <img width="1051" alt="Screenshot 2023-04-02 at 13 34 04" src="https://user-images.githubusercontent.com/30025376/229353111-b1d09b0b-af5d-4408-a672-460a83883d54.png">
 
-Step 6: install apache2
-Step 7: install mysql
+- Step 6: install apache2
+- Step 7: install mysql
 
 <img width="859" alt="Screenshot 2023-04-02 at 13 37 27" src="https://user-images.githubusercontent.com/30025376/229353235-9c987e43-924f-4963-9b21-6f8d25b8106d.png">
 

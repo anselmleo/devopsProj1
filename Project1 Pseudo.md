@@ -1,5 +1,5 @@
-DEMO 
-Step 1: create github repo and aws test accoount (with outlook)
+#DEMO 
+- [ Step 1: create github repo and aws test accoount (with outlook)]
 Step 2: create an ubuntu free tier ec2 instance with aws
 Step 3: update apt 
 Step 4: update security group inbound and outbound rules

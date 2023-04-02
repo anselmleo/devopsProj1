@@ -23,7 +23,7 @@ Step 11: lunch sample php info page
 
 <img width="1364" alt="Screenshot 2023-04-02 at 13 44 37" src="https://user-images.githubusercontent.com/30025376/229353599-12e2e339-7b5e-41a2-b75d-76a41180ea86.png">
 
-Public Address 
+**Visit this Public Address to View** 
 ec2-13-51-255-51.eu-north-1.compute.amazonaws.com
 
 ✌️

@@ -26,4 +26,4 @@ Step 11: lunch sample php info page
 Public Address 
 ec2-13-51-255-51.eu-north-1.compute.amazonaws.com
 
-###✌️###
+✌️
